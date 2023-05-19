@@ -12,7 +12,7 @@ This is an Android application that introduces. It includes a photo, name, conta
 - Introduction text section below the profile information
 - Welcome toast message displayed on app launch
 
-![Overview Picture](READMEIMAGE.jpg)
+![Overview Picture](./READMEIMAGE.jpg)
 
 
 ## Prerequisites
